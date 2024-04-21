@@ -1,0 +1,7 @@
+.neaDeal::before {
+  content: "";
+  width: 5px;
+  background-color: #6c757d;
+  padding: 1.5px;
+  margin-left: 5px;
+}
